@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900996414993",
+    "project_id": "lendydemonew",
+    "storage_bucket": "lendydemonew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900996414993:android:7476b172456d1dee28fbb0",
+        "android_client_info": {
+          "package_name": "com.example.androidflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVdXsK8s4sw5PQGHB76zy9WDAVgGwH-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
